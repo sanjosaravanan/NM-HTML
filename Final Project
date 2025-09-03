@@ -64,7 +64,7 @@
 
   <header>
     <h1>Student Portfolio</h1>
-    <p>Hi, I am <b>Gayathri G</b> | Asst.prof of Computer Science and Computer Application</p>
+    <p>Hi, I am <b>Sanjothika Saravanan</b> | Student of Computer Application</p>
   </header>
 
   <nav>
@@ -85,8 +85,8 @@
   <section id="education">
     <h2>Education</h2>
     <div class="card">
-      <p><b>B.E Computer Science</b> – VRS Engineering College (2020-2024)</p>
-      <p><b>Higher Secondary</b> – gandhi memorial higher sec School (2018-2020)</p>
+      <p><b>BCA-Bachelor of Computer Application</b> – Valliammai Women's College of Arts and Science (2024-2027)</p>
+      <p><b>Higher Secondary</b> – Sri Gnanananda Matric Higher Secondary School (2022-2024)</p>
     </div>
   </section>
 
@@ -113,14 +113,14 @@
   <section id="contact">
     <h2>Contact</h2>
     <div class="card">
-      <p>Email: john.doe@example.com</p>
-      <p>Phone: +91 9876543210</p>
-      <p>LinkedIn: linkedin.com/in/johndoe</p>
+      <p>Email: sanjothikasaravanan@gmail.com</p>
+      <p>Phone: +91 6384146467</p>
+      <p>LinkedIn: linkedin.com/in/sanjothika saravanan</p>
     </div>
   </section>
 
   <footer>
-    <p>&copy; 2025 John Doe | Student Portfolio</p>
+    <p>&copy; 2025 Sanjothika Saravanan | Student Portfolio</p>
   </footer>
 
 </body>
